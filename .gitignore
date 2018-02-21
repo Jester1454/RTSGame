@@ -1,0 +1,47 @@
+# Unity generated #
+Temp/
+Builds/
+Library/
+
+# Visual Studio / MonoDevelop generated
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+#IDEA generated
+.idea/
+*.iml
+Assets/Plugins/Editor*
+
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled project
+*.apk
+*.exe
+*.dmg
+/Assets/UnityVS.meta
+/Assets/UnityVS/Editor.meta
+/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll.meta
+/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll
+/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll.meta
+/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
+/Assets/NGUI/Examples/
+/Assets/Fabric/DependencyGraph.json
